@@ -77,6 +77,5 @@ roboshopPipeline({
 
 * **Jenkins Plugins**: Pipeline, Git, Docker, SonarQube Scanner.
 * **Credentials**: Defined in Jenkins for GitHub, DockerHub, and AWS/Kubernetes.
-```
 
 ---
